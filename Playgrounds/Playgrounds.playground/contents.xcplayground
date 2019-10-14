@@ -3,5 +3,8 @@
     <pages>
         <page name='PATAlternativeExample'/>
         <page name='CustomSequenceImplementation'/>
+        <page name='MethodDispatchingExample'/>
+        <page name='StrongVsWeakExample'/>
+        <page name='Test'/>
     </pages>
 </playground>

@@ -1,6 +1,6 @@
 import UIKit
 
-//AnySequence example
+//Custom sequence example
 
 protocol Model {
     var value: String { get }
